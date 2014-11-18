@@ -9,8 +9,22 @@
     <title><?php echo $Title;?></title>
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo BASE_DIRECTORY; ?>images/r-icon.png">
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
+    <meta name="description" content="I'm a software engineer and web developer who graduated from the University of Texas in Austin. I'm very passionate about technology and building things that make people's lives easier." />
+    <meta name="keywords" content="Ryan, Salmons, Ryan Salmons, Ryan David Salmons" />
+    <!-- Facebook -->
+    <meta property="og:title" content="Ryan Salmons" />
+    <meta property="og:type" content="company" />
+    <meta property="og:url" content="http://www.ryandavidsalmons.com" />
+    <meta property="og:image" content="http://www.ryandavidsalmons.com/images/headshot.jpg" />
+    <meta property="og:site_name" content="Ryan Salmons" />
+    <meta property="og:description" content="I'm a software engineer and web developer who graduated from the University of Texas in Austin. I'm very passionate about technology and building things that make people's lives easier." />
+  <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@ryansalmons">
+  <meta name="twitter:creator" content="@ryansalmons">
+  <meta name="twitter:title" content="Ryan Salmons">
+  <meta name="twitter:description" content="I'm a software engineer and web developer who graduated from the University of Texas in Austin. I'm very passionate about technology and building things that make people's lives easier.">
+  <meta name="twitter:image" content="http://www.ryandavidsalmons.com/images/headshot.jpg">
     <!--[if lte IE 8]><script src="<?php echo BASE_DIRECTORY . 'css/ie/html5shiv.js';?>"></script><![endif]-->
     <script src="<?php echo BASE_DIRECTORY . 'js/jquery.min.js';?>"></script>
     <script src="<?php echo BASE_DIRECTORY . 'js/jquery.dropotron.min.js';?>"></script>

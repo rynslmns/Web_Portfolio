@@ -44,13 +44,13 @@ include ROOT_DIRECTORY . '/inc/header.php';
   <article id="main">
 
     <header class="special container">
-      <span class="icon"><img src="<?php echo BASE_DIRECTORY . 'images/r-icon2.png';?>"></span>
+      <span class="icon fa-hand-o-down"></span>
       <h2>Hi, I'm Ryan!</h2>
       <p>I'm a software engineer and web developer who graduated from the University of Texas in Austin.<br>
-        I am very passionate about technology and building things that make people's lives easier.
+        I'm very passionate about technology and building things that make people's lives easier.
       </p>
       <p></p>
-      <p>I am an innovative thinker that thrives on being challenged. Take some time to look at my resume, and if you're interested, <a id="mail-link" href="<?php echo BASE_DIRECTORY . 'contact/';?>">let's get in touch</a>.
+      <p>I'm an innovative thinker that thrives on being challenged. Take some time to look at my resume, and if you're interested, <a id="mail-link" href="<?php echo BASE_DIRECTORY . 'contact/';?>">let's get in touch</a>.
       </p>
     </header>
 
